@@ -1,0 +1,31 @@
+DIGITAL PRIME STORE — SITE ESTÁTICO
+
+Arquivos:
+- index.html: estrutura do site
+- styles.css: visual responsivo
+- products.js: catálogo, preços e links de checkout
+- script.js: busca, filtros e detalhes dos produtos
+
+COMO VISUALIZAR
+Abra index.html no navegador (duplo clique).
+
+COMO EDITAR
+1. Abra products.js em um editor de texto.
+2. Altere nomes, descrições, preços e categorias dos produtos.
+3. Para adicionar um produto, duplique um objeto da lista PRODUCTS e dê a ele um id diferente.
+4. Insira a URL de checkout HTTPS em checkoutUrl SOMENTE quando sua conta de vendedor estiver regular e apta a receber pagamentos.
+5. Atualize o contato e substitua os avisos de privacidade e termos antes de operar comercialmente.
+
+HOSPEDAGEM GRATUITA (GITHUB PAGES)
+1. Crie um repositório no GitHub.
+2. Envie os quatro arquivos .html/.css/.js para a raiz do repositório.
+3. Em Settings > Pages, escolha Deploy from a branch, main e / (root).
+4. Aguarde a publicação. O GitHub informará a URL.
+Alternativa: Netlify Drop permite enviar a pasta do site para hospedagem estática.
+
+OBSERVAÇÕES
+- Google Sites não hospeda diretamente este conjunto HTML/CSS/JS; use GitHub Pages ou Netlify.
+- O site é uma vitrine, não processa pagamentos nem faz entrega de arquivos.
+- Não há links de checkout configurados. Botões de compra ficam desativados até a configuração.
+- Os produtos de saúde têm caráter educativo; não há promessa de resultados.
+- Plataformas de pagamento podem exigir idade mínima de 18 anos. Não forneça dados falsos.
