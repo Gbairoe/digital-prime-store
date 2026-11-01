@@ -29,3 +29,6 @@ OBSERVAÇÕES
 - Não há links de checkout configurados. Botões de compra ficam desativados até a configuração.
 - Os produtos de saúde têm caráter educativo; não há promessa de resultados.
 - Plataformas de pagamento podem exigir idade mínima de 18 anos. Não forneça dados falsos.
+
+CAPAS: as imagens estão na pasta images. Para trocar, substitua os arquivos SVG mantendo seus nomes.
+CHECKOUTS: edite products.js e preencha checkoutUrl de cada produto somente com o link HTTPS real de uma plataforma habilitada. Sem link, a compra permanece indisponível.
