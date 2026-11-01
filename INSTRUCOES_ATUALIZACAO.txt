@@ -1,0 +1,8 @@
+Digital Prime Store — capas corrigidas
+
+1. No GitHub, abra a pasta images.
+2. Substitua financeiro.svg, emagrecimento.svg e receitas.svg pelos arquivos desta pasta images.
+3. Clique em Commit changes.
+4. Aguarde a publicação e atualize o site com Ctrl+Shift+R.
+
+Os links checkoutUrl no products.js permanecem vazios. Adicione links reais somente com conta habilitada.
